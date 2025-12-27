@@ -106,7 +106,7 @@ AI-Resume-Intelligence-System/
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Create Virtual Environment
+ 1️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
 2️⃣ Activate Environment (Windows)
@@ -115,7 +115,8 @@ venv\Scripts\activate
 pip install -r requirements.txt
 4️⃣ Run the Application
 streamlit run app.py
-📦 Technologies Used
+
+##📦 Technologies Used
 
 Python
 
@@ -133,7 +134,7 @@ Streamlit
 
 Generative AI (OpenAI / HuggingFace APIs)
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 
 Integration with real-time job portals
 
