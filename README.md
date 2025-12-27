@@ -116,34 +116,21 @@ pip install -r requirements.txt
 4️⃣ Run the Application
 streamlit run app.py
 
-##📦 Technologies Used
-
+📦 Technologies Used
 Python
-
 Pandas, NumPy
-
 Matplotlib, Seaborn
-
 Scikit-learn
-
 TensorFlow / PyTorch
-
 NLP: NLTK / spaCy
-
 Streamlit
-
 Generative AI (OpenAI / HuggingFace APIs)
 
-##🔮 Future Enhancements
-
+🔮 Future Enhancements
 Integration with real-time job portals
-
 ATS score prediction
-
 Multi-language resume support
-
 Resume ranking system
-
 Cloud deployment (AWS / Azure)
 
 📝 Conclusion
